@@ -1,6 +1,6 @@
 # my_service_mesh
 ## 服务发现
-  ### zookeeper
+  ### * zookeeper
   ### qurator
   ### eureka
   ### redis
