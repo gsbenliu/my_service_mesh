@@ -35,3 +35,4 @@
   ### * [PROMETHEUS]
   ### * [GRAFANA]
   ### * [ELASTIC]
+  ### * [PINPOINT]
