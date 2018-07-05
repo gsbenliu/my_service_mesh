@@ -35,4 +35,6 @@
   ### * [PROMETHEUS]
   ### * [GRAFANA]
   ### * [ELASTIC]
-  ### * [PINPOINT]   https://www.cnblogs.com/yyhh/p/6106472.html
+  ### * [PINPOINT]   
+         https://www.cnblogs.com/yyhh/p/6106472.html
+         https://blog.csdn.net/heyeqingquan/article/details/74456591
