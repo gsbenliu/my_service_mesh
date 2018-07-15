@@ -39,3 +39,11 @@
   ### * [PINPOINT]   
          https://www.cnblogs.com/yyhh/p/6106472.html
          https://blog.csdn.net/heyeqingquan/article/details/74456591
+         https://skyao.io/learning-pinpoint/design/technical_overview.html
+         Pinpoint的特点如下:
+
+          分布式事务跟踪，跟踪跨分布式应用的消息
+          自动检测应用拓扑，帮助你搞清楚应用的架构
+          水平扩展以便支持大规模服务器集群
+          提供代码级别的可见性以便轻松定位失败点和瓶颈
+          使用字节码增强技术，添加新功能而无需修改代码
