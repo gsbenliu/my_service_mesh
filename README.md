@@ -1,5 +1,10 @@
 # MY_SERVICE_MESH
   Service Mesh的核心是提供统一的、全局的方法来控制和测量应用程序或服务之间的所有请求流量(用数据中心的话说，就是“east-west”流量)。对于采用了微服务的公司来说，这种请求流量在运行时行为中扮演着关键角色。因为服务通过响应传入请求和发出传出请求来工作，所以请求流成为应用程序在运行时行为的关键决定因素。因此，标准化流量管理成为标准化应用程序运行时的工具。
+  Service mesh 又译作 “服务网格”，作为服务间通信的基础设施层。Buoyant 公司的 CEO Willian Morgan 在他的这篇文章 WHAT’S A SERVICE MESH? AND WHY DO I NEED ONE? 中解释了什么是 Service Mesh，为什么云原生应用需要 Service Mesh。
+
+下面是 Willian Morgan 对 Service Mesh 的解释。
+
+A service mesh is a dedicated infrastructure layer for handling service-to-service communication. It’s responsible for the reliable delivery of requests through the complex topology of services that comprise a modern, cloud native application. In practice, the service mesh is typically implemented as an array of lightweight network proxies that are deployed alongside application code, without the application needing to be aware.
 ## 服务发现
   ### * [ZOOKEEPER]
   ### * [QURATOR]
