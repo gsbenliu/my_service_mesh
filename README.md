@@ -8,11 +8,11 @@ A service mesh is a dedicated infrastructure layer for handling service-to-servi
 ### Service mesh的特点
 Service mesh 有如下几个特点：
 
-应用程序间通讯的中间层
-轻量级网络代理
-应用程序无感知
-解耦应用程序的重试/超时、监控、追踪和服务发现
-目前两款流行的 service mesh 开源软件 Istio 和 Linkerd 都可以直接在 kubernetes 中集成，其中 Linkerd 已经成为 CNCF 成员。
+* 应用程序间通讯的中间层
+* 轻量级网络代理
+* 应用程序无感知
+* 解耦应用程序的重试/超时、监控、追踪和服务发现
+* 目前两款流行的 service mesh 开源软件 Istio 和 Linkerd 都可以直接在 kubernetes 中集成，其中 Linkerd 已经成为 CNCF 成员。
 ## 服务发现
   ### * [ZOOKEEPER]
   ### * [QURATOR]
